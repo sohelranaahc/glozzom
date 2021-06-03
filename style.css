@@ -1,0 +1,32 @@
+body {
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+nav, .copy-right{
+  background: #010101;
+}
+.carousel-item{
+  height: 450px;
+}
+.dark-overlay{
+  background: #42445A87;
+}
+.carousel-item1{
+  background: url('image1.jpeg') center top no-repeat ;
+}
+.about-section, .service-section{
+  background: url('image2.jpeg') center center no-repeat;
+}
+.carousel-item2{
+  background: url('image2.jpeg') center center no-repeat;
+}
+.carousel-item3 {
+  background: url('image3.jpeg') center center no-repeat;
+}
+.get-ready{
+  background: url('image1.jpeg') center top no-repeat;
+}

@@ -1,0 +1,8 @@
+@media (max-width: 576px) {
+  body{
+    font-size: 10px;
+  }
+ .carousel-item h2{
+   font-size: 40px;
+ }
+}
